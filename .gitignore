@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+__pycache__/
+current_salaries.csv
+env.py
